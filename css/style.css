@@ -84,9 +84,9 @@ main {
 
 #main {
     width: 75%;
-    float: right;
+    float: left;
     height: 100%;
-    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 20px;
     color: white;
 }
@@ -128,7 +128,7 @@ main {
 
 #side {
     width: 20%;
-    float: right;
+    float: left;
     height: 100%;
     padding: 20px;
     font-size: 17px;
